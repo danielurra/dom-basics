@@ -2,6 +2,7 @@
 ## What is the DOM
 **DOM** stands for `Document Object Model`, it is a tree-like data structure that represents a web browser’s model of a web page.<br>
 It defines the logical structure of documents and the way a document is accessed and manipulated.<br>
+Conceptually, the DOM is a tree. A tree consists of nodes: every node has a parent (except for the root node), and zero or more child nodes.<br>
 <img width="960" alt="DOM-google-search" src="https://github.com/danielurra/dom-basics/assets/51704179/3fcd7c3d-1dc1-4e99-9473-6e2f79026560"><br>
 ## DOM automatic creation
 The DOM is automatically created by your browser when an html file is open, it's based on the html and capable of ammend missing parts of the html code<br>
