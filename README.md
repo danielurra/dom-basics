@@ -16,5 +16,9 @@ both the **Head** and **body** html tags were automatically added  by the DOM.<b
 If you are working on a `CSS` project, you must have some kind of knowledge related to the DOM model as it helps when we are using advanced selectors.<br>
 ## Use JavaScript to query, manipulate, and create DOM elements.
 You can use JavaScript (or other programming language) to manipulate pages, it requires understanding the DOM and the techniques available<br> 
-to accomplish common tasks, such as selecting specific elements or modifying the content of elements.<br>
+to accomplish common tasks, such as:
+* Selecting specific elements or
+* Modifying the content of elements.<br>
+
+
 
