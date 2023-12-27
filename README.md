@@ -12,7 +12,7 @@ Let's create a blank html file that contains only one word "Hello" nothing else,
 ![blank-page-01](https://github.com/danielurra/dom-basics/assets/51704179/3788b460-1f8b-4fdc-bcf3-dfebafacc615)<br>
 Press `F12` immediately after opening this html file with your preferred `web browser` (Chrome, Firefox, Edge, etc.) <br>
 and select **Elements** you will see that even though we didn't add any html tag<br>
-both the **Head** and **body** html tags were automatically added  by the DOM.<br>
+both the **Head** and **body** html tags are being shown on the DOM representation of your HTML file.<br>
 ![dom-automatically-add-html-tags](https://github.com/danielurra/dom-basics/assets/51704179/9286d878-08e5-45f9-8c44-2302746325f1)<br>
 ## DOM and CSS
 If you are working on a `CSS` project, you must have some kind of knowledge related to the DOM model as it helps when we are using advanced selectors.<br>
