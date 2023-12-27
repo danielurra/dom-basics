@@ -21,6 +21,9 @@ You can use JavaScript (or other programming language) to manipulate pages, it r
 to accomplish common tasks, such as:
 * Selecting specific elements or
 * Modifying the content of elements.<br>
+## Inspect
+One easy way to see the DOM representation of an html file is to use the `inspect` tool:<br>
+![inspect](https://github.com/danielurra/dom-basics/assets/51704179/35b11d96-a213-4f8c-87af-0ccc0084c08a)<br>
 
 
 
