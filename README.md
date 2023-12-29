@@ -24,6 +24,23 @@ to accomplish common tasks, such as:
 ## Inspect
 One easy way to see the DOM representation of an html file is to use the `inspect` tool:<br>
 ![inspect](https://github.com/danielurra/dom-basics/assets/51704179/35b11d96-a213-4f8c-87af-0ccc0084c08a)<br>
+## The DOM is not what you see (render tree)
+For example, You can perfectly hide a Paragrph element by using **display: none** see below:
+```html
+<head>
+    <title>Hidden Paragraph</title>
+</head>
+
+<body>
+    <h1>Hidden paragraph below, inspect it to confirm</h1>
+    <p style="display: none;">Even though I'm not rendered, I'm being shown in the DOM representation of this page</p>
+</body>
+
+</html>
+```
+<img width="711" alt="hidden-paragraph-02" src="https://github.com/danielurra/dom-basics/assets/51704179/fdcb07de-dd1d-464e-9731-7de9913a1a60"><br>
+
+
 
 
 
